@@ -1,0 +1,27 @@
+p { 
+    color:black ;
+    font-family: arial;
+    font-size: 110%;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 1cm;
+    padding-bottom: 0.5cm;
+    padding-top: 0.5cm;
+}
+h3 {
+    text-align: center;
+    background-color: rgb(75, 60, 200);
+    color: white;
+    font-size: 1cm;
+}
+P {
+    text-align: center;
+    background-color:rgb(75, 60, 220);
+    font-size: 0.9cm;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+    
+}
